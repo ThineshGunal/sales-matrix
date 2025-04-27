@@ -1,0 +1,4 @@
+2025/04/27 06:42:10 server started in salesmatrix !!... 
+2025/04/27 06:42:10 lConnectDB => thinesh:thinesh1212#@tcp(localhost:3306)/salesanalytics?charset=utf8mb4&parseTime=True&loc=Local
+2025/04/27 06:42:10 DB01 Error 1045 (28000): Access denied for user 'thinesh'@'localhost' (using password: YES)
+2025/04/27 06:42:10 db connection failedError 1045 (28000): Access denied for user 'thinesh'@'localhost' (using password: YES)

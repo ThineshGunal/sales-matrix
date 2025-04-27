@@ -1,0 +1,11 @@
+[dbconnection]
+port=3306
+database="salesanalytics"
+password="Thinesh1212#"
+username="thinesh"
+server="localhost"
+
+[dbconfig]
+maxidleconn=5
+maxconn=5
+maxopenconn=5
